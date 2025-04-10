@@ -12,6 +12,9 @@ html {
     background-color: var(--cor-fundo-cinza-escuro);
     font-family: var(--fonte-primaria);
     font-size: var(--fonte-normal);
+    background-image: url('../imagens/movement-red-smoke-spread-black-background.jpg');
+    background-size:cover;
+    
   }
 
   .container{
