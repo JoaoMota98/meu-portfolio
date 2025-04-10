@@ -23,7 +23,9 @@
 .habilidades .container-habilidades .habilidade:hover h3,
 .habilidades .container-habilidades .habilidade:hover .logo i{
     color: var(--cor-primaria);
+
 }
+
 
 .habilidades .container-habilidades .habilidade h3{
     color: var(--cor-primaria);
